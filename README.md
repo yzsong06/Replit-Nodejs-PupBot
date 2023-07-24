@@ -14,5 +14,5 @@ bash <(curl -s https://raw.githubusercontent.com/yzsong06/Replit-Nodejs-Pupbot/m
 ## 官方文档
 [点我前往](https://www.pupbot.cn)
 ## 滑动验证Ticket
-[滑动验证App](https://wwwz.lanzout.com/iDGdB0jvpb4b)  
-蓝奏云，密码gzgp
+[滑动验证App](https://wwwz.lanzout.com/iDGdB0jvpb4b)
+蓝奏云，密码1ubq
